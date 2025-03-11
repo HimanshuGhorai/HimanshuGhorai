@@ -1,47 +1,53 @@
 # 👨‍💻 Hi, I'm Himanshu! 🚀
 
-![Coding GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+![GitHub Contributions](https://ghchart.rshah.org/40916c/HimanshuGhorai)
 
-## 🌐 Web Designer & Developer 
+## 🌐 Frontend & Backend Web Developer | JavaScript Enthusiast  
 
 ```javascript
 const himanshu = {
-   role: "Web Designer & Developer",
+   role: "Frontend & Backend Web Developer",
    experience: "8+ months",
-   skills: ["HTML", "CSS", "Bootstrap", "JavaScript", "WordPress"],
-   passion: "Crafting seamless digital experiences",
+   skills: ["HTML5", "CSS3", "Bootstrap", "JavaScript (Basic)", "WordPress"],
+   passion: "Building high-performance web applications & seamless digital experiences",
    darkMode: true
 };
-console.log("Turning ideas into reality! 🚀");
+console.log("Optimizing performance, one API & UI at a time! 🚀");
 ```
 
-✨ **"Transforming code into creativity, one pixel at a time!"** ✨
+✨ **"Where creativity meets code!"** ✨
 
 ---
 
 ## 🔥 About Me:
-🔹 **Dark Mode Enthusiast** 🌑 | 💻 **Coding Geek**  
-🔹 Passionate about building **responsive, high-performing, and user-friendly** websites.  
-🔹 **Eager to dive deeper into JavaScript & backend interest.**
+🔹 **Dark Mode Enthusiast** 🌑 | 💻 **JavaScript Lover** | 🚀 **Problem Solver**  
+🔹 Passionate about **scalable, secure, and efficient** web applications.  
+🔹 Eager to **master JavaScript, frontend, and backend technologies** & build high-performing APIs.
 
 ---
 
 ## 🚀 My Tech Stack:
 
-🔹 **Front-End Development:** HTML5, CSS3, Bootstrap, JavaScript(Basic) ,tailwindCss, 
-🔹 **CMS & Tools:** WordPress (Theme Customization, Plugins), Elementor, Figma, Photoshop  
-🔹 **SEO & Performance:** Site Optimization, Cross-Browser Compatibility  
-🔹 **Soft Skills:** Client Communication, Agile Collaboration, Problem-Solving  
+🔹 **Frontend:** HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript (Basic)   
+🔹 **CMS & Tools:** WordPress (Theme Customization, Plugins), Elementor, Figma, Adobe Photoshop  
+🔹 **Soft Skills:** Client Communication, Agile Development, Debugging & Optimization  
+
+---
+
+## 🏆 GitHub Activity & Contributions:
+
+
+![Himanshu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuGhorai&layout=compact&theme=radical)  
 
 ---
 
 ## 🔥 Featured Projects:
 
-📌 **Real Estate Website Template** | *WordPress, HTML, CSS*  
+📌 **Real Estate Website Template** | *WordPress, HTML, CSS, JavaScript*  
 ✅ Custom-built property portal with agent profiles & contact forms  
-📈 **Result:** Boosted client lead generation by **35%** post-launch.
+📈 **Result:** Boosted client lead generation by **35%** post-launch.  
 
-📌 **E-Commerce Store Redesign** | *Bootstrap, JavaScript*  
+📌 **E-Commerce Store Redesign** | *Bootstrap, JavaScript, Node.js*  
 ✅ Revamped an online store for mobile responsiveness  
 📈 **Result:** Increased checkout conversions by **20%**.
 
@@ -50,7 +56,7 @@ console.log("Turning ideas into reality! 🚀");
 ## 🏆 Achievements:
 ✔️ **10+ successful client projects** with **98% client satisfaction**  
 ✔️ Integrated **SEO best practices**, boosting organic traffic by **25%**  
-✔️ Streamlined **WordPress workflows**, reducing development time by **20%**  
+✔️ Streamlined **WordPress & backend workflows**, reducing development time by **20%**   
 
 ---
 
@@ -62,9 +68,9 @@ console.log("Turning ideas into reality! 🚀");
 ---
 
 ## ⚡ Fun Fact:
-🎮 I love **strategic video games**, exploring **UI/UX trends**, and staying updated with the latest **tech podcasts & radio broadcasts**.
+🎮 I love **strategic video games**, exploring **JavaScript tricks**, and keeping up with **tech trends**.
 
 ---
 
-🌑 *Dark Mode Activated!* 🖤  
-💡 **"Code, Create, Innovate!"** 🚀
+🌑 *Dark Mode Always!* 🖤  
+💡 **"Frontend & Backend – Two sides of the same coin!"** 🚀
